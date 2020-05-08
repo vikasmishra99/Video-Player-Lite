@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">مشغل الفيديو لايت</string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="storage_permission_denied">تم رفض الإذن بالوصول إلى التخزين! \nلم نتمكن من الحصول على مقاطع الفيديو الخاصة بك!</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="rename_video">إعادة تسمية</string>
+    <string name="action_delete">حذف</string>
+
+    <string name="app_string_info">معلومات</string>
+    <string name="play_video_bottom_icon">لعب</string>
+    <string name="play_video_popup">لعب المنبثقة</string>
+    <string name="play_audio_bottom">صوت الخلفية</string>
+    <string name="action_sort">فرز</string>
+    <string name="action_sort_AZ">من الألف إلى الياء</string>
+    <string name="action_sortZA">Z- أ</string>
+    <string name="action_sort_size">بحجم</string>
+    <string name="action_sort_total_videos">إجمالي مقاطع الفيديو</string>
+    <string name="search_title">بحث</string>
+    <string name="view_by_list">عرض حسب القائمة</string>
+    <string name="view_by_grid">عرض حسب الشبكة</string>
+    <string name="share_video">شارك</string>
+
+    <string name="folder">مجلد</string>
+    <string name="sleep_timer">مؤقت النوم</string>
+    <string name="about">حول</string>
+
+    <string name="confirm_cancel">إلغاء</string>
+    <string name="enter_new_name">أدخل اسمًا جديدًا</string>
+    <string name="confirm_delete">حذف</string>
+    <string name="confirm">هل أنت متأكد أنك تريد حذف</string>
+    <string name="delete_video">حذف الفيديو؟</string>
+    <string name="properties">الخصائص</string>
+    <string name="file_location">موقعك</string>
+    <string name="format">شكل</string>
+    <string name="file_size">بحجم</string>
+    <string name="duration">المدة الزمنية</string>
+    <string name="resolution">الدقة</string>
+    <string name="date_added">تاريخ</string>
+
+    <string name="video">أشرطة فيديو</string>
+    <string name="menu">قائمة طعام</string>
+    <string name="now_playing">الان العب</string>
+    <string name="no_video_playing">يتم تشغيل أي فيديو</string>
+    <string name="fileNameExist">اسم الملف هذا موجود :(</string>
+    <string name="ThemeColor">لون الموضوع</string>
+    <string name="txt_sleep_app">تساعد الإضافة في إيقاف تشغيل الموسيقى وتشغيل الفيديو على جهازك والعمل بشكل جيد مع Youtube و Spotify و Google Music وجميع تطبيقات الموسيقى والفيديو.</string>
+
+    <string name="music_player_link">مشغل الموسيقى</string>
+    <string name="more_apps">تطبيقات أكثر</string>
+    <string name="rate_video_player">قيمنا</string>
+    <string name="share_video_player">شارك</string>
+    <string name="share_desc">مشغل فيديو رائع يقوم بتشغيل كل فيديو. تحميل لمشاهدة أشرطة الفيديو المفضلة لديك.</string>
+    <string name="version">الإصدار</string>
+    <string name="changelog">التغيير</string>
+    <string name="open_source_link">شوكة على جيثب</string>
+    <string name="licenses">التراخيص</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="get_in_touch">اتصل</string>
+    <string name="send_feedback">اكتب رسالة بريد الكتروني</string>
+    <string name="like_us_on_fb">تابع على تويتر</string>
+    <string name="rate_on_google_play">معدل</string>
+    <string name="rate_on_google_play_summary">اترك تقييمًا إيجابيًا على Google Play إذا كنت تحب Video Player.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">شكر خاص ل</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">موقع الكتروني</string>
+    <string name="dialog_changelog_title">سجل التغيير</string>
+    <string name="dialog_privacy_title">سياسة الخصوصية</string>
+    <string name="ok">حسنا</string>
+    <string name="splash_welcome_text">مشغل فديوهات</string>
+    <string name="unknow">مجهول</string>
+    <string name="join_beta">انضم إلى الإصدار التجريبي</string>
+    <string name="online_videos">فيديو على الانترنت</string>
+</resources>

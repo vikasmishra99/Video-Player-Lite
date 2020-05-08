@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="storage_permission_denied">ปฏิเสธสิทธิ์ในการเข้าถึงที่เก็บข้อมูล! \nเราไม่สามารถรับวิดีโอของคุณได้!</string>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="rename_video">เปลี่ยนชื่อ</string>
+    <string name="action_delete">ลบ</string>
+
+    <string name="app_string_info">ข้อมูล</string>
+    <string name="play_video_bottom_icon">เล่น</string>
+    <string name="play_video_popup">เล่นป๊อปอัพ</string>
+    <string name="play_audio_bottom">เสียงพื้นหลัง</string>
+    <string name="action_sort">ประเภท</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">ขนาด</string>
+    <string name="action_sort_total_videos">วิดีโอทั้งหมด</string>
+    <string name="search_title">ค้นหา</string>
+    <string name="view_by_list">ดูตามรายการ</string>
+    <string name="view_by_grid">ดูตามกริด</string>
+    <string name="share_video">หุ้น</string>
+
+    <string name="folder">โฟลเดอร์</string>
+    <string name="sleep_timer">เวลานอน</string>
+    <string name="about">เกี่ยวกับ</string>
+
+    <string name="confirm_cancel">ยกเลิก</string>
+    <string name="enter_new_name">ป้อนชื่อใหม่</string>
+    <string name="confirm_delete">ลบ</string>
+    <string name="confirm">คุณแน่ใจหรือว่าต้องการลบ</string>
+    <string name="delete_video">ลบวิดีโอไหม</string>
+    <string name="properties">คุณสมบัติ</string>
+    <string name="file_location">ที่ตั้ง</string>
+    <string name="format">รูปแบบ</string>
+    <string name="file_size">ขนาด</string>
+    <string name="duration">ระยะเวลา</string>
+    <string name="resolution">มติ</string>
+    <string name="date_added">วันที่</string>
+
+    <string name="video">วิดีโอ</string>
+    <string name="menu">เมนู</string>
+    <string name="now_playing">กำลังเล่น</string>
+    <string name="no_video_playing">ไม่มีการเล่นวิดีโอ</string>
+    <string name="fileNameExist">มีชื่อไฟล์นี้ :(</string>
+    <string name="ThemeColor">ธีมสี</string>
+    <string name="txt_sleep_app">ส่วนขยายช่วยปิดเพลงวิดีโอกำลังเล่นบนอุปกรณ์ของคุณใช้งานได้ดีกับ Youtube, Spotify, Google Music และเพลงทั้งหมด, แอปวิดีโอ</string>
+
+    <string name="music_player_link">เครื่องเล่นเพลง</string>
+    <string name="more_apps">แอพเพิ่มเติม</string>
+    <string name="rate_video_player">ให้คะแนนเรา</string>
+    <string name="share_video_player">หุ้น</string>
+    <string name="share_desc">เครื่องเล่นวิดีโอที่น่าทึ่งที่เล่นทุกวิดีโอ ดาวน์โหลดเพื่อดูวิดีโอที่คุณชื่นชอบ</string>
+    <string name="version">รุ่น</string>
+    <string name="changelog">การเปลี่ยนแปลง</string>
+    <string name="open_source_link">แยก GitHub</string>
+    <string name="licenses">ใบอนุญาต</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="get_in_touch">ติดต่อ</string>
+    <string name="send_feedback">เขียนอีเมล</string>
+    <string name="like_us_on_fb">ติดตามบน Twitter</string>
+    <string name="rate_on_google_play">ประเมินค่า</string>
+    <string name="rate_on_google_play_summary">ปล่อยให้คะแนนเป็นบวกบน Google Play หากคุณชอบ Video Player</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">ขอขอบคุณเป็นพิเศษ</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">เว็บไซต์</string>
+    <string name="dialog_changelog_title">เปลี่ยนบันทึก</string>
+    <string name="dialog_privacy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="ok">ตกลง</string>
+    <string name="splash_welcome_text">เครื่องเล่นวีดีโอ</string>
+    <string name="unknow">ไม่ทราบ</string>
+    <string name="join_beta">เข้าร่วมเบต้า</string>
+    <string name="online_videos">วิดีโอออนไลน์</string>
+
+</resources>

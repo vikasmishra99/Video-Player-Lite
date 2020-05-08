@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">비디오 플레이어 라이트</string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="storage_permission_denied">저장 용량에 대한 액세스 권한이 거부되었습니다! \n동영상을 가져올 수 없습니다!</string>
+    <string name="action_settings">설정</string>
+    <string name="rename_video">이름 바꾸기</string>
+    <string name="action_delete">지우다</string>
+
+    <string name="app_string_info">정보</string>
+    <string name="play_video_bottom_icon">플레이</string>
+    <string name="play_video_popup">팝업 재생</string>
+    <string name="play_audio_bottom">백그라운드 오디오</string>
+    <string name="action_sort">종류</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">크기</string>
+    <string name="action_sort_total_videos">총 비디오</string>
+    <string name="search_title">검색</string>
+    <string name="view_by_list">목록으로보기</string>
+    <string name="view_by_grid">그리드로보기</string>
+    <string name="share_video">공유</string>
+
+    <string name="folder">폴더</string>
+    <string name="sleep_timer">수면 타이머</string>
+    <string name="about">약</string>
+
+    <string name="confirm_cancel">취소</string>
+    <string name="enter_new_name">새 이름을 입력하십시오</string>
+    <string name="confirm_delete">지우다</string>
+    <string name="confirm">삭제 하시겠습니까</string>
+    <string name="delete_video">비디오를 삭제 하시겠습니까?</string>
+    <string name="properties">속성</string>
+    <string name="file_location">위치</string>
+    <string name="format">체재</string>
+    <string name="file_size">크기</string>
+    <string name="duration">지속</string>
+    <string name="resolution">해결</string>
+    <string name="date_added">데이트</string>
+
+    <string name="video">비디오</string>
+    <string name="menu">메뉴</string>
+    <string name="now_playing">지금 재생 중</string>
+    <string name="no_video_playing">비디오가 재생되지 않습니다</string>
+    <string name="fileNameExist">이 파일 이름이 존재합니다 :(</string>
+    <string name="ThemeColor">테마 색상</string>
+    <string name="txt_sleep_app">확장 프로그램은 음악을 끄고 장치에서 비디오를 재생하고 Youtube, Spotify, Google Music 및 모든 음악, 비디오 앱과 잘 작동합니다.</string>
+
+    <string name="music_player_link">음악 플레이어</string>
+    <string name="more_apps">더 많은 애플 리케이션</string>
+    <string name="rate_video_player">우리를 평가</string>
+    <string name="share_video_player">공유</string>
+    <string name="share_desc">모든 비디오를 재생하는 놀라운 비디오 플레이어. 좋아하는 비디오를 보려면 다운로드하십시오.</string>
+    <string name="version">버전</string>
+    <string name="changelog">변경 로그</string>
+    <string name="open_source_link">GitHub의 포크</string>
+    <string name="licenses">라이센스</string>
+    <string name="privacy_policy">개인 정보 정책</string>
+    <string name="get_in_touch">접촉</string>
+    <string name="send_feedback">이메일을 쓰다</string>
+    <string name="like_us_on_fb">트위터 팔로우</string>
+    <string name="rate_on_google_play">율</string>
+    <string name="rate_on_google_play_summary">동영상 플레이어가 마음에 드시면 Google Play에 긍정적 인 평가를 남겨주세요.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">특별히 감사함</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">웹 사이트</string>
+    <string name="dialog_changelog_title">변경 로그</string>
+    <string name="dialog_privacy_title">개인 정보 정책</string>
+    <string name="ok">확인</string>
+    <string name="splash_welcome_text">비디오 플레이어</string>
+    <string name="unknow">알 수 없는</string>
+    <string name="join_beta">베타</string>
+    <string name="online_videos">온라인 비디오</string>
+
+</resources>

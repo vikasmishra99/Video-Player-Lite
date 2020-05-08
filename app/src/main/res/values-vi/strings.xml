@@ -1,0 +1,77 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+
+    <string name="storage_permission_denied">Quyền truy cập lưu trữ đã bị từ chối!\n Chúng tôi không thể truy cập kho video của bạn!</string>
+    <string name="action_settings">Cài Đặt</string>
+    <string name="rename_video">Đổi Tên</string>
+    <string name="action_delete">Xoá</string>
+
+    <string name="app_string_info">Thông Tin</string>
+    <string name="play_video_bottom_icon">Xem</string>
+    <string name="play_video_popup">Xem Dạng Popup</string>
+    <string name="play_audio_bottom">Phát Nhạc Nền</string>
+    <string name="action_sort">Sắp xếp</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">size</string>
+    <string name="action_sort_total_videos">Tổng Số Video</string>
+    <string name="search_title">Tìm Kiếm</string>
+    <string name="view_by_list">Dạng Danh Sách</string>
+    <string name="view_by_grid">Dạng Lưới</string>
+    <string name="share_video">Share</string>
+
+    <string name="folder">Thư Mục</string>
+    <string name="sleep_timer">Hẹn Giờ</string>
+    <string name="about">Về Chúng Tôi</string>
+
+    <string name="confirm_cancel">Huỷ</string>
+    <string name="enter_new_name">Nhập Tên Mới</string>
+    <string name="confirm_delete">Xoá</string>
+    <string name="confirm">Bạn Có Chắc Muốn Xoá </string>
+    <string name="delete_video">Xoá Video ?</string>
+    <string name="properties">Thông Tin</string>
+    <string name="file_location">Nơi Lưu Trữ</string>
+    <string name="format">Định Dạng</string>
+    <string name="file_size">Kích Thướt</string>
+    <string name="duration">Độ Dài</string>
+    <string name="resolution">Độ Phân Giải</string>
+    <string name="date_added">Ngày</string>
+
+    <string name="video">Videos</string>
+    <string name="menu">Danh Sách</string>
+    <string name="now_playing">Đang Phát</string>
+    <string name="no_video_playing">Không Có Video Nào Đang Được Phát</string>
+    <string name="fileNameExist">Tên Video Này Đã Tồn Tại :(</string>
+    <string name="ThemeColor">Tông Màu</string>
+    <string name="txt_sleep_app">Tiện ích mở rộng giúp tắt nhạc, video đang phát trên thiết bị của bạn, hoạt động tốt với Youtube, Spotify, Google Music và tất cả nhạc, ứng dụng video.</string>
+    <string name="music_player_link">Máy nghe nhạc</string>
+    <string name="more_apps">Thêm nhiều ứng dụng</string>
+    <string name="rate_video_player">Đánh giá chúng tôi</string>
+    <string name="share_video_player">Chia sẻ</string>
+    <string name="share_desc">Trình phát video tuyệt vời phát mọi video. Tải về để xem video yêu thích của bạn.</string>
+    <string name="version">Phiên bản</string>
+    <string name="changelog">Thay đổi</string>
+    <string name="open_source_link">Ngã ba trên GitHub</string>
+    <string name="licenses">Giấy phép</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="get_in_touch">Tiếp xúc</string>
+    <string name="send_feedback">Viết một email</string>
+    <string name="like_us_on_fb">Theo dõi trên Twitter</string>
+    <string name="rate_on_google_play">Tỷ lệ</string>
+    <string name="rate_on_google_play_summary">Để lại xếp hạng tích cực trên Google Play nếu bạn thích Trình phát video.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Trân trọng cảm ơn</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">Trang mạng</string>
+    <string name="dialog_changelog_title">Thay đổi nhật ký</string>
+    <string name="dialog_privacy_title">Chính sách bảo mật</string>
+    <string name="ok">đồng ý</string>
+    <string name="splash_welcome_text">Trình phát video</string>
+    <string name="unknow">Unknown</string>
+    <string name="join_beta">Tham Beta</string>
+    <string name="online_videos">Video trực tuyến</string>
+
+</resources>

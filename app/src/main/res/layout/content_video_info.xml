@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/content_alarm"
+    android:layout_width="match_parent"
+    android:layout_height="330dp"
+    android:padding="16dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:id="@+id/video_info_box"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+            android:background="@color/transparent"
+            android:scaleType="center"
+            app:materialIcon="information_outline"
+            app:materialIconColor="?attr/text_color"
+            app:materialIconSize="27dp" />
+        <TextView
+            android:id="@+id/mainVideoTitle"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:gravity="center|start"
+            android:layout_marginStart="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toEndOf="@+id/video_info_box" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <TextView
+            android:id="@+id/videoLocation"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text= "@string/file_location"/>
+        <TextView
+            android:id="@+id/videoLocation_value"
+            android:layout_toEndOf="@id/videoLocation"
+            android:layout_marginStart="15dp"
+            android:gravity="center"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="3"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/videoFormat"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text= "@string/format"/>
+        <TextView
+            android:id="@+id/videoFormat_value"
+            android:layout_toEndOf="@id/videoFormat"
+            android:layout_marginStart="15dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/videoFileSize"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text= "@string/file_size"/>
+        <TextView
+            android:id="@+id/videoFileSize_value"
+            android:layout_toEndOf="@id/videoFileSize"
+            android:layout_marginStart="15dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/videoDuration"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text= "@string/duration"/>
+        <TextView
+            android:id="@+id/videoDuration_value"
+            android:layout_toEndOf="@id/videoDuration"
+            android:layout_marginStart="15dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/videoResolution"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text= "@string/resolution"/>
+        <TextView
+            android:id="@+id/videoResolution_value"
+            android:layout_toEndOf="@id/videoResolution"
+            android:layout_marginStart="15dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/videoDateAdded"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text= "@string/date_added"/>
+        <TextView
+            android:id="@+id/videoDateAdded_value"
+            android:layout_toEndOf="@id/videoDateAdded"
+            android:layout_marginStart="15dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+</LinearLayout>

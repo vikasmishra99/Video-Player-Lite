@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#636e73</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#fbfbfb</color>
+    <color name="black">#000000</color>
+    <color name="black0">#111111</color>
+    <color name="blackL">#333333</color>
+    <color name="black1">#2C3E50</color>
+    <color name="dark">#292728</color>
+    <color name="blackl1">#595959</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white70">#fbfbfb</color>
+    <color name="multiselected">#EBDEF0</color>
+
+    <color name="nice_amber">#ffc107</color>
+    <color name="nice_yellow">#ffeb3b</color>
+    <color name="nice_red">#ee4035</color>
+    <color name="nice_pink3">#ff6f69</color>
+    <color name="nice_purple">#BF13F9</color>
+
+    <color name="nice_light_green">#8bc34a</color>
+    <color name="nice_pink">#f44336</color>
+    <color name="nice_pink2">#fe8a71</color>
+    <color name="nice_green">#239B56</color>
+    <color name="slider_text">#2C0152</color>
+    <!--Themes -->
+
+    <color name="bg_customize">#F4F6F6</color>
+    <color name="bg_customize1">#66000000</color>
+
+    <!--NEW THEMES -->
+    <color name="theme0">#454545</color>
+    <color name="theme1">#000000</color>
+    <color name="theme2">#9C27B0</color>
+    <color name="theme3">#673AB7</color>
+    <color name="theme4">#3F51B5</color>
+    <color name="theme5">#2196F3</color>
+    <color name="theme6">#03A9F4</color>
+    <color name="theme7">#00BCD4</color>
+    <color name="theme8">#009688</color>
+    <color name="theme9">#4CAF50</color>
+    <color name="theme10">#8BC34A</color>
+    <color name="theme11">#CDDC39</color>
+    <color name="theme12">#FFEB3B</color>
+    <color name="theme13">#FFC107</color>
+    <color name="theme14">#FF9800</color>
+    <color name="theme15">#FF5722</color>
+    <color name="theme16">#795548</color>
+    <color name="theme17">#9E9E9E</color>
+    <color name="theme18">#607D8B</color>
+    <color name="theme19">#E91E63</color>
+    <color name="theme20">#F44336</color>
+
+</resources>

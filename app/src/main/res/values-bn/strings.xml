@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ভিডিও প্লেয়ার লাইট</string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="storage_permission_denied">স্টোরেজ অ্যাক্সেসের অনুমতি অস্বীকার করা হয়েছিল! \N আমরা আপনার ভিডিওগুলি পেতে সক্ষম নই!</string>
+    <string name="action_settings">সেটিংস</string>
+    <string name="rename_video">পুনরায় নামকরণ</string>
+    <string name="action_delete">মুছে ফেলা</string>
+
+    <string name="app_string_info">তথ্য</string>
+    <string name="play_video_bottom_icon">প্লে</string>
+    <string name="play_video_popup">পপআপ খেলুন</string>
+    <string name="play_audio_bottom">পটভূমি অডিও</string>
+    <string name="action_sort">সাজান</string>
+    <string name="action_sort_AZ">A-Z ক্রমানুসারে</string>
+    <string name="action_sortZA">Z-A ক্রমানুসারে</string>
+    <string name="action_sort_size">আয়তন</string>
+    <string name="action_sort_total_videos">মোট ভিডিও</string>
+    <string name="search_title">অনুসন্ধান করুন</string>
+    <string name="view_by_list">তালিকা অনুসারে দেখুন</string>
+    <string name="view_by_grid">গ্রিড দ্বারা দেখুন</string>
+    <string name="share_video">ভাগ</string>
+
+    <string name="folder">ফোল্ডার</string>
+    <string name="sleep_timer">স্লিপ টাইমার</string>
+    <string name="about">সম্পর্কিত</string>
+
+    <string name="confirm_cancel">বাতিল</string>
+    <string name="enter_new_name">নতুন নাম লিখুন</string>
+    <string name="confirm_delete">মুছে ফেলা</string>
+    <string name="confirm">আপনি মুছে ফেলতে চান</string>
+    <string name="delete_video">ভিডিও মুছবেন?</string>
+    <string name="properties">প্রোপার্টি</string>
+    <string name="file_location">অবস্থান</string>
+    <string name="format">বিন্যাস</string>
+    <string name="file_size">আয়তন</string>
+    <string name="duration">স্থিতিকাল</string>
+    <string name="resolution">সমাধান</string>
+    <string name="date_added">তারিখ</string>
+
+    <string name="video">ভিডিও</string>
+    <string name="menu">তালিকা</string>
+    <string name="now_playing">এখন চলছে</string>
+    <string name="no_video_playing">কোনও ভিডিও প্লে হয় না</string>
+    <string name="fileNameExist">এই ফাইলের নামটি বিদ্যমান :(</string>
+    <string name="ThemeColor">থিম রঙ</string>
+    <string name="txt_sleep_app">একটি এক্সটেনশন সাহায্যে আপনার ডিভাইসে সংগীত, ভিডিও চলছে, ইউটিউব, স্পটিফাই, গুগল মিউজিক এবং সমস্ত মিউজিক, ভিডিও অ্যাপ্লিকেশন দিয়ে ভাল কাজ করবে।</string>
+
+    <string name="music_player_link">গান শোনার যন্ত্র</string>
+    <string name="more_apps">আরো অ্যাপ্লিকেশান</string>
+    <string name="rate_video_player">আমাদের ব্যাপারে আপনার মতামত দিন</string>
+    <string name="share_video_player">ভাগ</string>
+    <string name="share_desc">আশ্চর্যজনক ভিডিও প্লেয়ার যা প্রতিটি ভিডিও প্লে করে। আপনার প্রিয় ভিডিও দেখতে ডাউনলোড করুন।</string>
+    <string name="version">সংস্করণ</string>
+    <string name="changelog">পরিবর্তণের</string>
+    <string name="open_source_link">গিটহাবের কাঁটাচামচ</string>
+    <string name="licenses">লাইসেন্স</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="get_in_touch">যোগাযোগ</string>
+    <string name="send_feedback">একটি ইমেইল লিখুন</string>
+    <string name="like_us_on_fb">টুইটারে অনুসরণ করুন</string>
+    <string name="rate_on_google_play">হার</string>
+    <string name="rate_on_google_play_summary">আপনি যদি ভিডিও প্লেয়ার পছন্দ করেন তবে গুগল প্লেতে একটি ইতিবাচক রেটিং ছেড়ে দিন।</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">বিশেষ ধন্যবাদ</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">ওয়েবসাইট</string>
+    <string name="dialog_changelog_title">লগ পরিবর্তন করুন</string>
+    <string name="dialog_privacy_title">গোপনীয়তা নীতি</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="splash_welcome_text">ভিডিও প্লেয়ার</string>
+    <string name="unknow">অজানা</string>
+    <string name="join_beta">বিটা</string>
+    <string name="online_videos">অনলাইন ভিডিও</string>
+</resources>

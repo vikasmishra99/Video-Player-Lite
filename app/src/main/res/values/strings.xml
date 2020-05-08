@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="storage_permission_denied">Permission to access storage was denied!\n We\'re not able to get your videos!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="app_string_info">Info</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">size</string>
+    <string name="action_sort_total_videos">Total Videos</string>
+    <string name="search_title">Search</string>
+
+    <string name="folder">Folder</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="about">About</string>
+
+    <string name="confirm_cancel">Cancel</string>
+    <string name="file_location">Location</string>
+    <string name="format">Format</string>
+    <string name="file_size">Size</string>
+    <string name="duration">Duration</string>
+    <string name="resolution">Resolution</string>
+    <string name="date_added">Date</string>
+
+    <string name="video">Videos</string>
+    <string name="menu">Menu</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="no_video_playing">No video is played</string>
+    <string name="txt_sleep_app">An extension help turn off music, video is playing on your device, work well with Youtube, Spotify, Google Music and all of music, video app.</string>
+    <!--add new -->
+    <string name="music_player_link">Music Player</string>
+    <string name="rate_video_player">Rate Us</string>
+    <string name="share_video_player">Share</string>
+    <string name="licenses">Licenses</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_on_google_play_summary">Leave a positive rating on Google Play if you like Video Player.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Special thanks to</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">Website</string>
+    <string name="dialog_changelog_title">Change Log</string>
+    <string name="dialog_privacy_title">Privacy Policy</string>
+    <string name="ok">OK</string>
+    <string name="splash_welcome_text">Video Player</string>
+    <string name="unknow">Unknown</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="online_videos">Online Videos</string>
+    <!--changes-->
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="download">Download</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="how_to">HOW TO</string>
+    <string name="more_apps">More Apps</string>
+    <string name="version">Version</string>
+    <string name="rate_app">Rate App</string>
+    <string name="ThemeColor">Change Your Theme</string>
+    <string name="app_name1">Video</string>
+    <string name="app_name2">Player Lite</string>
+    <string name="share_desc">Fast and lite video player that plays every video on your device. Download to know more.</string>
+    <string name="open_source_link">Open Source</string>
+    <string name="get_in_touch">Get in touch with us</string>
+    <string name="send_feedback">Send Your Feedback</string>
+    <string name="like_us_on_fb">Like us on Facebook</string>
+    <string name="rate_on_google_play">Rate Us</string>
+    <string name="changelog">Change Log</string>
+    <string name="play_video_bottom_icon">Play Videos</string>
+    <string name="play_audio_bottom">Background Audio Only</string>
+    <string name="play_video_popup">Play Video in Popup</string>
+    <string name="share_video">Share Video</string>
+    <string name="rename_video">Rename Video</string>
+    <string name="properties">Properties</string>
+    <string name="view_by_list">List View</string>
+    <string name="view_by_grid">Grid View</string>
+    <string name="delete_video">Delete Video ?</string>
+    <string name="confirm">Are you sure you want to delete video : </string>
+    <string name="confirm_delete">Delete</string>
+    <string name="enter_new_name">Enter New Name Here</string>
+    <string name="fileNameExist">This file name already exist. Try a new name :(</string>
+
+</resources>

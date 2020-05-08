@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/nav_themes"
+            android:icon="@drawable/ic_nav_theme"
+            android:title="@string/theme" />
+        <item
+            android:id="@+id/nav_music_player"
+            android:icon="@drawable/ic_nav_music"
+            android:title="@string/music_player_link" />
+
+    </group>
+
+    <group
+        android:id="@+id/navigation_drawer_menu_category_sections"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_nav_about"
+            android:title="@string/about" />
+        <item
+            android:id="@+id/nav_join_beta"
+            android:icon="@drawable/ic_nav_join_beta"
+            android:title="@string/join_beta" />
+    </group>
+    <group
+        android:id="@+id/navigation_drawer_menu_category_other"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rate_app"
+            android:icon="@drawable/ic_nav_rate"
+            android:title="@string/rate_app" />
+        <item
+            android:id="@+id/nav_share_app"
+            android:icon="@drawable/ic_nav_share"
+            android:title="@string/share_video_player" />
+        <item
+            android:id="@+id/nav_version"
+            android:icon="@drawable/ic_nav_version"
+            android:title="@string/version" />
+
+    </group>
+
+</menu>

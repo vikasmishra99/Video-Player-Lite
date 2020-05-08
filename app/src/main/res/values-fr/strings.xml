@@ -1,0 +1,76 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+
+    <string name="storage_permission_denied">L\'autorisation d\'accès au stockage a été refusée!\n Nous ne pouvons pas obtenir vos vidéos</string>
+    <string name="action_settings">Réglages</string>
+    <string name="rename_video">Renommer</string>
+    <string name="action_delete">Effacer</string>
+
+    <string name="app_string_info">Info</string>
+    <string name="play_video_bottom_icon">Jouer</string>
+    <string name="play_video_popup">Jouer Popup</string>
+    <string name="play_audio_bottom">Audio de fond</string>
+    <string name="action_sort">Trier</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">Taille</string>
+    <string name="action_sort_total_videos">Nombre total de vidéos</string>
+    <string name="search_title">Chercher</string>
+    <string name="view_by_list">Voir par liste</string>
+    <string name="view_by_grid">Voir par grille</string>
+    <string name="share_video">Partager</string>
+
+    <string name="folder">Dossier</string>
+    <string name="sleep_timer">Minuterie de sommeil</string>
+    <string name="about">Sur</string>
+
+    <string name="confirm_cancel">Annuler</string>
+    <string name="enter_new_name">Entrer un nouveau nom</string>
+    <string name="confirm_delete">Effacer</string>
+    <string name="confirm">Etes-vous sûr que vous voulez supprimer </string>
+    <string name="delete_video">Supprimer la vidéo?</string>
+    <string name="properties">Propriétés</string>
+    <string name="file_location">Emplacement</string>
+    <string name="format">Format</string>
+    <string name="file_size">Taille</string>
+    <string name="duration">Durée</string>
+    <string name="resolution">Résolution</string>
+    <string name="date_added">Rendez-vous amoureux</string>
+
+    <string name="video">Vidéos</string>
+    <string name="menu">Lecture en cours</string>
+    <string name="now_playing">Aucune vidéo n\'est jouée</string>
+    <string name="no_video_playing">Ce nom de fichier existe déjà :(</string>
+    <string name="fileNameExist">This file name is existed :(</string>
+    <string name="ThemeColor">Couleur du thème</string>
+    <string name="txt_sleep_app">Une extension aide à désactiver la musique, la vidéo est en cours de lecture sur votre appareil, fonctionne bien avec Youtube, Spotify, Google Musique et toute la musique, application vidéo.</string>
+    <string name="music_player_link">Lecteur de musique</string>
+    <string name="more_apps">Plus d\'applications</string>
+    <string name="rate_video_player">Évaluez nous</string>
+    <string name="share_video_player">Partager</string>
+    <string name="share_desc">Magnifique lecteur vidéo qui lit toutes les vidéos. Téléchargez pour regarder vos vidéos préférées.</string>
+    <string name="version">Version</string>
+    <string name="changelog">Changelog</string>
+    <string name="open_source_link">Fork sur GitHub</string>
+    <string name="licenses">Licences</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="get_in_touch">Contact</string>
+    <string name="send_feedback">Écrire un e-mail</string>
+    <string name="like_us_on_fb">Suivre sur Twitter</string>
+    <string name="rate_on_google_play">Taux</string>
+    <string name="rate_on_google_play_summary">Laissez une note positive sur Google Play si vous aimez le lecteur vidéo.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Remerciement spécial à</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">Site Internet</string>
+    <string name="dialog_changelog_title">Journal des modifications</string>
+    <string name="dialog_privacy_title">Politique de confidentialité</string>
+    <string name="ok">D\'accord</string>
+    <string name="splash_welcome_text">Lecteur vidéo</string>
+    <string name="unknow">Inconnue</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="online_videos">Vidéos en ligne</string>
+</resources>

@@ -1,0 +1,76 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+
+    <string name="storage_permission_denied">Depolamaya erişim izni reddedildi!\n Videolarınızı alamıyoruz!</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="rename_video">Adını değiştirmek</string>
+    <string name="action_delete">silmek</string>
+
+    <string name="app_string_info">Bilgi</string>
+    <string name="play_video_bottom_icon">Oyun</string>
+    <string name="play_video_popup">Pop-up oyna</string>
+    <string name="play_audio_bottom">Arkaplan Sesi</string>
+    <string name="action_sort">Çeşit</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">boyut</string>
+    <string name="action_sort_total_videos">Toplam Videolar</string>
+    <string name="search_title">Arama</string>
+    <string name="view_by_list">Listeye göre görüntüle</string>
+    <string name="view_by_grid">Kılavuza göre görüntüle</string>
+    <string name="share_video">Pay</string>
+
+    <string name="folder">Klasör</string>
+    <string name="sleep_timer">Uyku Zamanlayıcısı</string>
+    <string name="about">hakkında</string>
+
+    <string name="confirm_cancel">İptal etmek</string>
+    <string name="enter_new_name">Yeni İsim Girin</string>
+    <string name="confirm_delete">silmek</string>
+    <string name="confirm">Silmek istediğine emin misin </string>
+    <string name="delete_video">Video Sil ?</string>
+    <string name="properties">Özellikleri</string>
+    <string name="file_location">yer</string>
+    <string name="format">Biçim</string>
+    <string name="file_size">boyut</string>
+    <string name="duration">süre</string>
+    <string name="resolution">çözüm</string>
+    <string name="date_added">tarih</string>
+
+    <string name="video">Videolar</string>
+    <string name="menu">Menü</string>
+    <string name="now_playing">Şimdi oynuyor</string>
+    <string name="no_video_playing">Video oynatılmıyor</string>
+    <string name="fileNameExist">Bu dosya adı var :(</string>
+    <string name="ThemeColor">Tema Rengi</string>
+    <string name="txt_sleep_app">Bir uzantı yardımı, müziğin kapatılması, videonun cihazınızda oynatılması, Youtube, Spotify, Google Müzik ve tüm müzikler, video uygulaması ile iyi çalışır.</string>
+    <string name="music_player_link">Müzik çalar</string>
+    <string name="more_apps">Daha fazla uygulama</string>
+    <string name="rate_video_player">Bizi değerlendirin</string>
+    <string name="share_video_player">Paylaş</string>
+    <string name="share_desc">Her videoyu oynayan inanılmaz Video Oynatıcı. En sevdiğiniz videoları izlemek için indirin.</string>
+    <string name="version">versiyon</string>
+    <string name="changelog">Değişiklikler</string>
+    <string name="open_source_link">GitHub\'da Çatal</string>
+    <string name="licenses">Lisanslar</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="get_in_touch">İletişim</string>
+    <string name="send_feedback">Bir email yaz</string>
+    <string name="like_us_on_fb">Twitter\'da takip et</string>
+    <string name="rate_on_google_play">oran</string>
+    <string name="rate_on_google_play_summary">Video Oynatıcı\'yı beğendiyseniz Google Play\'de olumlu bir derece bırakın.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Özellikle ..... \'ya teşekkür</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">İnternet sitesi</string>
+    <string name="dialog_changelog_title">Girişi Değiştir</string>
+    <string name="dialog_privacy_title">Gizlilik Politikası</string>
+    <string name="ok">tamam</string>
+    <string name="splash_welcome_text">Video Oynatıcı</string>
+    <string name="unknow">Bilinmeyen</string>
+    <string name="join_beta">Beta ya Katılın</string>
+    <string name="online_videos">Online Videolar</string>
+</resources>

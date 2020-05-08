@@ -1,2 +1,2 @@
-# Video-Player-Lite
-Video Player
+# Video-Player-Lighter
+ Video Player

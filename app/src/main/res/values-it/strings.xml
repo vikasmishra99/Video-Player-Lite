@@ -1,0 +1,77 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+
+    <string name="storage_permission_denied">È stato negato il permesso di accedere allo spazio di archiviazione!\n Non siamo in grado di ottenere i tuoi video!</string>
+    <string name="action_settings">impostazioni</string>
+    <string name="rename_video">Rinominare</string>
+    <string name="action_delete">Elimina</string>
+
+    <string name="app_string_info">Informazioni</string>
+    <string name="play_video_bottom_icon">Giocare</string>
+    <string name="play_video_popup">Gioca a Popup</string>
+    <string name="play_audio_bottom">Audio di sfondo</string>
+    <string name="action_sort">Ordinare</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">taglia</string>
+    <string name="action_sort_total_videos">Total Videos</string>
+    <string name="search_title">Ricerca</string>
+    <string name="view_by_list">Visualizza per lista</string>
+    <string name="view_by_grid">Visualizza per griglia</string>
+    <string name="share_video">Condividere</string>
+
+    <string name="folder">Cartella</string>
+    <string name="sleep_timer">Sveglia</string>
+    <string name="about">Di</string>
+
+    <string name="confirm_cancel">Annulla</string>
+    <string name="enter_new_name">Inserisci il nuovo nome</string>
+    <string name="confirm_delete">Elimina</string>
+    <string name="confirm">Sei sicuro di voler eliminare </string>
+    <string name="delete_video">Elimina video ?</string>
+    <string name="properties">Proprietà</string>
+    <string name="file_location">Posizione</string>
+    <string name="format">Formato</string>
+    <string name="file_size">Taglia</string>
+    <string name="duration">Durata</string>
+    <string name="resolution">Risoluzione</string>
+    <string name="date_added">Data</string>
+
+    <string name="video">Videos</string>
+    <string name="menu">Menu</string>
+    <string name="now_playing">Ora giocando</string>
+    <string name="no_video_playing">Nessun video è riprodotto</string>
+    <string name="fileNameExist">Questo nome di file esiste :(</string>
+    <string name="ThemeColor">Tema Colore</string>
+    <string name="txt_sleep_app">Un\'estensione aiuta a disattivare la musica, i video vengono riprodotti sul dispositivo, funzionano bene con YouTube, Spotify, Google Music e tutta la musica, l\'app video.</string>
+    <string name="music_player_link">Lettore musicale</string>
+    <string name="more_apps">Più applicazioni</string>
+    <string name="rate_video_player">Valutaci</string>
+    <string name="share_video_player">Condividere</string>
+    <string name="share_desc">Incredibile lettore video che riproduce ogni video. Scarica per guardare i tuoi video preferiti.</string>
+    <string name="version">Versione</string>
+    <string name="changelog">changelog</string>
+    <string name="open_source_link">Fork su GitHub</string>
+    <string name="licenses">licenze</string>
+    <string name="privacy_policy">politica sulla riservatezza</string>
+    <string name="get_in_touch">Contatto</string>
+    <string name="send_feedback">Scrivere una e-mail</string>
+    <string name="like_us_on_fb">Segui su Twitter</string>
+    <string name="rate_on_google_play">Vota</string>
+    <string name="rate_on_google_play_summary">Lascia una valutazione positiva su Google Play se ti piace Video Player.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Ringraziamenti speciali a</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">Sito web</string>
+    <string name="dialog_changelog_title">Registro delle modifiche</string>
+    <string name="dialog_privacy_title">politica sulla riservatezza</string>
+    <string name="ok">ok</string>
+    <string name="splash_welcome_text">Lettore video</string>
+    <string name="unknow">Sconosciuto</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="online_videos">Online Videos</string>
+
+</resources>

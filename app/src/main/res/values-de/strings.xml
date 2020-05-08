@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+
+    <string name="storage_permission_denied">Zugriff auf Speicher wurde verweigert!!\n Wir können Ihre Videos nicht abrufen!</string>
+    <string name="action_settings">die Einstellungen</string>
+    <string name="rename_video">Umbenennen</string>
+    <string name="action_delete">Löschen</string>
+
+    <string name="app_string_info">Info</string>
+    <string name="play_video_bottom_icon">abspielen</string>
+    <string name="play_video_popup">Popup spielen</string>
+    <string name="play_audio_bottom">Hintergrund-Audio</string>
+    <string name="action_sort">Sortieren</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">Größe</string>
+    <string name="action_sort_total_videos">Videos insgesamt</string>
+    <string name="search_title">Suche</string>
+    <string name="view_by_list">Nach Liste anzeigen</string>
+    <string name="view_by_grid">Ansicht nach Raster</string>
+    <string name="share_video">Aktie</string>
+
+    <string name="folder">Mappe</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="about">About</string>
+
+    <string name="confirm_cancel">Stornieren</string>
+    <string name="enter_new_name">Neuen Namen eingeben</string>
+    <string name="confirm_delete">Löschen</string>
+    <string name="confirm">Sind Sie sicher, dass Sie löschen möchten </string>
+    <string name="delete_video">Video löschen? ?</string>
+    <string name="properties">Eigenschaften</string>
+    <string name="file_location">Ort</string>
+    <string name="format">Format</string>
+    <string name="file_size">Größe</string>
+    <string name="duration">Dauer</string>
+    <string name="resolution">Auflösung</string>
+    <string name="date_added">Datum</string>
+
+    <string name="video">Videos</string>
+    <string name="menu">Speisekarte</string>
+    <string name="now_playing">Läuft gerade</string>
+    <string name="no_video_playing">Es wird kein Video abgespielt</string>
+    <string name="fileNameExist">Dieser Dateiname existiert :(</string>
+    <string name="ThemeColor">Themenfarbe</string>
+    <string name="txt_sleep_app">Mithilfe einer Erweiterung können Sie Musik ausschalten, Videos auf Ihrem Gerät wiedergeben und Youtube, Spotify, Google Music sowie die gesamte Musik- und Video-App verwenden.</string>
+    <string name="music_player_link">Musikspieler</string>
+    <string name="more_apps">Mehr Apps</string>
+    <string name="rate_video_player">Bewerten Sie uns</string>
+    <string name="share_video_player">Teilen</string>
+    <string name="share_desc">Erstaunlicher Video-Player, der jedes Video abspielt. Laden Sie es herunter, um Ihre Lieblingsvideos anzusehen.</string>
+    <string name="version">Ausführung</string>
+    <string name="changelog">Änderungsprotokoll</string>
+    <string name="open_source_link">Gabel auf GitHub</string>
+    <string name="licenses">Lizenzen</string>
+    <string name="privacy_policy">Datenschutz-Bestimmungen</string>
+    <string name="get_in_touch">Kontakt</string>
+    <string name="send_feedback">Eine E-Mail schreiben</string>
+    <string name="like_us_on_fb">Auf Twitter folgen</string>
+    <string name="rate_on_google_play">Bewertung</string>
+    <string name="rate_on_google_play_summary">Hinterlassen Sie eine positive Bewertung bei Google Play, wenn Sie Video Player mögen.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Besonderer Dank an</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">Webseite</string>
+    <string name="dialog_changelog_title">Änderungsprotokoll</string>
+    <string name="dialog_privacy_title">Datenschutz-Bestimmungen</string>
+    <string name="ok">in Ordnung</string>
+    <string name="splash_welcome_text">Blitzschneller Videoplayer</string>
+    <string name="unknow">Unbekannt</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="online_videos">Online Videos</string>
+</resources>

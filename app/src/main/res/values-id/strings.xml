@@ -1,0 +1,78 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+
+    <string name="storage_permission_denied">Izin untuk mengakses penyimpanan ditolak!\n Kami tidak dapat memperoleh video Anda!</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="rename_video">Ganti nama</string>
+    <string name="action_delete">Menghapus</string>
+
+    <string name="app_string_info">Info</string>
+    <string name="play_video_bottom_icon">Bermain</string>
+    <string name="play_video_popup">Mainkan Popup</string>
+    <string name="play_audio_bottom">Audio Latar Belakang</string>
+    <string name="action_sort">Menyortir</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">ukuran</string>
+    <string name="action_sort_total_videos">Total Videos</string>
+    <string name="search_title">Pencarian</string>
+    <string name="view_by_list">Lihat berdasarkan daftar</string>
+    <string name="view_by_grid">Lihat berdasarkan kotak</string>
+    <string name="share_video">Bagikan</string>
+
+    <string name="folder">Map</string>
+    <string name="sleep_timer">Timer Tidur</string>
+    <string name="about">Tentang</string>
+
+    <string name="confirm_cancel">Membatalkan</string>
+    <string name="enter_new_name">Masukkan Nama Baru</string>
+    <string name="confirm_delete">Menghapus</string>
+    <string name="confirm">Anda yakin ingin menghapus </string>
+    <string name="delete_video">Hapus Video ?</string>
+    <string name="properties">Properti</string>
+    <string name="file_location">Lokasi</string>
+    <string name="format">Format</string>
+    <string name="file_size">ukuran</string>
+    <string name="duration">Lamanya</string>
+    <string name="resolution">Resolusi</string>
+    <string name="date_added">Tanggal</string>
+
+    <string name="video">Videos</string>
+    <string name="menu">Menu</string>
+    <string name="now_playing">Sedang dimainkan</string>
+    <string name="no_video_playing">Tidak ada video yang diputar</string>
+    <string name="fileNameExist">Nama file ini ada :(</string>
+    <string name="ThemeColor">Warna Tema</string>
+    <string name="txt_sleep_app">Ekstensi membantu mematikan musik, video diputar di perangkat Anda, bekerja dengan baik dengan Youtube, Spotify, Google Music dan semua musik, aplikasi video.
+</string>
+    <string name="music_player_link">Pemutar musik</string>
+    <string name="more_apps">Aplikasi tambahan lainnya</string>
+    <string name="rate_video_player">Beri Nilai Kami</string>
+    <string name="share_video_player">Bagikan</string>
+    <string name="share_desc">Pemutar Video Luar Biasa yang memutar setiap video. Unduh untuk menonton video favorit Anda.</string>
+    <string name="version">Versi: kapan</string>
+    <string name="changelog">Changelog</string>
+    <string name="open_source_link">Garpu di GitHub</string>
+    <string name="licenses">Lisensi</string>
+    <string name="privacy_policy">Kebijakan pribadi</string>
+    <string name="get_in_touch">Kontak</string>
+    <string name="send_feedback">Menulis email</string>
+    <string name="like_us_on_fb">Ikuti di Twitter</string>
+    <string name="rate_on_google_play">Menilai</string>
+    <string name="rate_on_google_play_summary">Tinggalkan peringkat positif di Google Play jika Anda suka Video Player.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Terima kasih khusus untuk</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">Situs web</string>
+    <string name="dialog_changelog_title">Ubah Log</string>
+    <string name="dialog_privacy_title">Kebijakan pribadi</string>
+    <string name="ok">baik</string>
+    <string name="splash_welcome_text">Pemutar video</string>
+    <string name="unknow">Tidak dikenal</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="online_videos">Online Videos</string>
+
+</resources>

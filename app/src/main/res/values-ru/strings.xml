@@ -1,0 +1,77 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Видеоплеер</string>
+
+    <string name="storage_permission_denied">В доступе к хранилищу было отказано!\n Мы не можем получить ваши видео!</string>
+    <string name="action_settings">настройки</string>
+    <string name="rename_video">переименовывать</string>
+    <string name="action_delete">удалять</string>
+
+    <string name="app_string_info">Информация</string>
+    <string name="play_video_bottom_icon">Играть</string>
+    <string name="play_video_popup">Играть Popup</string>
+    <string name="play_audio_bottom">Фоновое аудио</string>
+    <string name="action_sort">Сортировать</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">размер</string>
+    <string name="action_sort_total_videos">Всего видео</string>
+    <string name="search_title">Поиск</string>
+    <string name="view_by_list">Просмотр по списку</string>
+    <string name="view_by_grid">Просмотр по сетке</string>
+    <string name="share_video">Поделиться</string>
+
+    <string name="folder">скоросшиватель</string>
+    <string name="sleep_timer">Таймер сна</string>
+    <string name="about">Около</string>
+
+    <string name="confirm_cancel">отменить</string>
+    <string name="enter_new_name">Введите новое имя</string>
+    <string name="confirm_delete">удалять</string>
+    <string name="confirm">Вы уверены, что хотите удалить </string>
+    <string name="delete_video">Удалить видео ?</string>
+    <string name="properties">свойства</string>
+    <string name="file_location">Место нахождения</string>
+    <string name="format">Формат</string>
+    <string name="file_size">размер</string>
+    <string name="duration">продолжительность</string>
+    <string name="resolution">разрешение</string>
+    <string name="date_added">Дата</string>
+
+    <string name="video">Видео</string>
+    <string name="menu">Меню</string>
+    <string name="now_playing">Сейчас играет</string>
+    <string name="no_video_playing">Видео не воспроизводится</string>
+    <string name="fileNameExist">Это имя файла существует :(</string>
+    <string name="ThemeColor">Цвет темы</string>
+    <string name="txt_sleep_app">Расширение помогает отключить музыку, видео воспроизводится на вашем устройстве, хорошо работает с Youtube, Spotify, Google Music и всей музыкой, видео приложением.
+</string>
+    <string name="music_player_link">Музыкальный проигрыватель</string>
+    <string name="more_apps">Больше приложений</string>
+    <string name="rate_video_player">Оцените нас</string>
+    <string name="share_video_player">доля</string>
+    <string name="share_desc">Удивительный видео плеер, который воспроизводит каждое видео. Скачать, чтобы посмотреть ваши любимые видео.</string>
+    <string name="version">Версия</string>
+    <string name="changelog">Изменения</string>
+    <string name="open_source_link">Вилка на GitHub</string>
+    <string name="licenses">Лицензии</string>
+    <string name="privacy_policy">политика конфиденциальности</string>
+    <string name="get_in_touch">контакт</string>
+    <string name="send_feedback">Написать электронное письмо</string>
+    <string name="like_us_on_fb">Следите в Твиттере</string>
+    <string name="rate_on_google_play">Показатель</string>
+    <string name="rate_on_google_play_summary">Оставьте положительный рейтинг в Google Play, если вам нравится Video Player.</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">Отдельное спасибо</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">Веб-сайт</string>
+    <string name="dialog_changelog_title">Журнал изменений</string>
+    <string name="dialog_privacy_title">политика конфиденциальности</string>
+    <string name="ok">ОК</string>
+    <string name="splash_welcome_text">Видео-плеер</string>
+    <string name="unknow">неизвестный</string>
+    <string name="join_beta">Бета</string>
+    <string name="online_videos">Онлайн видео</string>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video Player Lite</string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="storage_permission_denied">ストレージにアクセスする権限が拒否されました！\nビデオを取得できません！</string>
+    <string name="action_settings">設定</string>
+    <string name="rename_video">リネーム</string>
+    <string name="action_delete">削除する</string>
+
+    <string name="app_string_info">情報</string>
+    <string name="play_video_bottom_icon">演奏する</string>
+    <string name="play_video_popup">ポップアップを再生</string>
+    <string name="play_audio_bottom">バックグラウンドオーディオ</string>
+    <string name="action_sort">ソート</string>
+    <string name="action_sort_AZ">A〜Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">サイズ</string>
+    <string name="action_sort_total_videos">合計ビデオ</string>
+    <string name="search_title">探す</string>
+    <string name="view_by_list">リストで見る</string>
+    <string name="view_by_grid">グリッドで表示</string>
+    <string name="share_video">シェア</string>
+
+    <string name="folder">フォルダ</string>
+    <string name="sleep_timer">目覚まし時計</string>
+    <string name="about">約</string>
+
+    <string name="confirm_cancel">キャンセル</string>
+    <string name="enter_new_name">新しい名前を入力してください</string>
+    <string name="confirm_delete">削除する</string>
+    <string name="confirm">消去してもよろしいですか</string>
+    <string name="delete_video">ビデオを削除しますか？</string>
+    <string name="properties">プロパティ</string>
+    <string name="file_location">ロケーション</string>
+    <string name="format">フォーマット</string>
+    <string name="file_size">サイズ</string>
+    <string name="duration">期間</string>
+    <string name="resolution">解決</string>
+    <string name="date_added">日付</string>
+
+    <string name="video">ビデオ</string>
+    <string name="menu">メニュー</string>
+    <string name="now_playing">再生中</string>
+    <string name="no_video_playing">ビデオは再生されません</string>
+    <string name="fileNameExist">このファイル名は存在します:(</string>
+    <string name="ThemeColor">テーマカラー</string>
+    <string name="txt_sleep_app">拡張機能は、音楽をオフにしたり、ビデオをデバイスで再生したり、YouTube、Spotify、Googleミュージック、およびすべての音楽、ビデオアプリと連携したりできます。</string>
+
+    <string name="music_player_link">音楽プレーヤー</string>
+    <string name="more_apps">より多くのアプリケーション</string>
+    <string name="rate_video_player">私たちを評価してください</string>
+    <string name="share_video_player">シェア</string>
+    <string name="share_desc">すべてのビデオを再生する素晴らしいビデオプレイヤー。ダウンロードして、お気に入りの動画をご覧ください。</string>
+    <string name="version">バージョン</string>
+    <string name="changelog">変更ログ</string>
+    <string name="open_source_link">GitHubのフォーク</string>
+    <string name="licenses">ライセンス</string>
+    <string name="privacy_policy">個人情報保護方針</string>
+    <string name="get_in_touch">連絡先</string>
+    <string name="send_feedback">メールを書きます</string>
+    <string name="like_us_on_fb">Twitterでフォロー</string>
+    <string name="rate_on_google_play">割合</string>
+    <string name="rate_on_google_play_summary">ビデオプレーヤーが気に入ったら、Google Playに良い評価を残してください。</string>
+    <string name="vikas_mishra" translatable="false">GoldsMine Apps</string>
+    <string name="special_thanks_to">に感謝します</string>
+    <string name="bangalore_india" translatable="false">Bangalore, India</string>
+    <string name="google_plus" translatable="false">Google Plus</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="website">ウェブサイト</string>
+    <string name="dialog_changelog_title">ログを変更</string>
+    <string name="dialog_privacy_title">個人情報保護方針</string>
+    <string name="ok">OK</string>
+    <string name="splash_welcome_text">ビデオプレイヤー</string>
+    <string name="unknow">未知の</string>
+    <string name="join_beta">ベータ版に参加</string>
+    <string name="online_videos">オンラインビデオ</string>
+
+</resources>
